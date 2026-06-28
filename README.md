@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verliebt-in-dein-lacheln/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Verliebt in dein Lächeln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verliebt-in-dein-lacheln/) |
+| **Get License** | [Get a Licensing Quote for Verliebt in dein Lächeln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verliebt-in-dein-lacheln/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in meinen schwarzen Benz, die Stadt glänzt nur für dich
+> Zweihundert auf dem Tacho, doch ich sehe nur dein Gesicht
+> Der Bass drückt so tief, Baby, diese Nacht ist jung
+> Ich bin süchtig nach dei'm Lächeln, du bist heute mein Grund
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
