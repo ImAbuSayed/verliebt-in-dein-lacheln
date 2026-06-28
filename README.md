@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verliebt-in-dein-lacheln/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Verliebt in dein Lächeln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verliebt-in-dein-lacheln/) |
+| **Get License** | [Commercial Licensing for Verliebt in dein Lächeln](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verliebt-in-dein-lacheln/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `acca8ef60d96cd56b9ccc3cd2e33b570f33908de671bb698f22afcf2e923ea10` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
